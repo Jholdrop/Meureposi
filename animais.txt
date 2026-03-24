@@ -5,3 +5,6 @@ tartaruga
 tartaruga
 [A[A[B[B[B
 tartaruga
+squirtle
+baleia
+golfinho
